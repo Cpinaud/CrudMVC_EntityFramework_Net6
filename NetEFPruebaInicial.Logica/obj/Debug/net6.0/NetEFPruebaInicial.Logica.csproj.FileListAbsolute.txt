@@ -1,0 +1,17 @@
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\bin\Debug\net6.0\NetEFPruebaInicial.Logica.deps.json
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\bin\Debug\net6.0\NetEFPruebaInicial.Logica.dll
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\bin\Debug\net6.0\NetEFPruebaInicial.Logica.pdb
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\obj\Debug\net6.0\NetEFPruebaInicial.Logica.csproj.AssemblyReference.cache
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\obj\Debug\net6.0\NetEFPruebaInicial.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\obj\Debug\net6.0\NetEFPruebaInicial.Logica.AssemblyInfoInputs.cache
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\obj\Debug\net6.0\NetEFPruebaInicial.Logica.AssemblyInfo.cs
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\obj\Debug\net6.0\NetEFPruebaInicial.Logica.csproj.CoreCompileInputs.cache
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\obj\Debug\net6.0\NetEFPruebaInicial.Logica.dll
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\obj\Debug\net6.0\refint\NetEFPruebaInicial.Logica.dll
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\obj\Debug\net6.0\NetEFPruebaInicial.Logica.pdb
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\obj\Debug\net6.0\ref\NetEFPruebaInicial.Logica.dll
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\bin\Debug\net6.0\NetEFPruebaInicial.Logica.runtimeconfig.json
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\bin\Debug\net6.0\NetEFPruebaInicial.Data.dll
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\bin\Debug\net6.0\NetEFPruebaInicial.Data.pdb
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\obj\Debug\net6.0\NetEFPruebaInicial.Logica.csproj.CopyComplete
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Logica\obj\Debug\net6.0\NetEFPruebaInicial.Logica.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+﻿@using NetEFPruebaInicial.Data.Entidades;
+@model Especie
+@{
+}
+
+<form action="/Especie/Alta" method="post">
+    <div>
+        Nombre: <input type="text" name="Nombre" />
+    </div>
+    <div>
+        Peso Promedio: <input type="number" name="PesoPromedio" />
+    </div>
+    <div>
+        Edad Promedio: <input type="number" name="EdadPromedio" />
+    </div>
+    <div>
+        Tipo Especie: <select name="IdTipoEspecie">
+            @foreach (Tipoespecie te in ViewBag.TipoEspecies)
+            {
+                <option value=@te.IdTipoEspecie>@te.Nombre</option>
+            }
+        </select>
+    </div>
+    <input type="submit" value="Agregar" />
+
+</form>

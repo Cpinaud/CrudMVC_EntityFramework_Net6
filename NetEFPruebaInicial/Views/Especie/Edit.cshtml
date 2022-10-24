@@ -1,0 +1,33 @@
+﻿@model NetEFPruebaInicial.Data.Entidades.Especie;
+@{
+}
+
+<form action="/Especie/Edit" method="post">
+    <div>
+        <input type="number" name="IdEspecie" value="@Model.IdEspecie" hidden />
+    </div>
+    <div>
+        Nombre: <input type="text" name="Nombre" value="@Model.Nombre"/>
+    </div>
+    <div>
+        Peso Promedio: <input type="decimal" name="PesoPromedio" value="@Model.PesoPromedio" />
+    </div>
+    <div>
+        Edad Promedio: <input type="number" name="EdadPromedio" value="@Model.EdadPromedio" />
+    </div>
+    <div>
+        Tipo Especie: <select name="IdTipoEspecie">
+            @foreach (var te in ViewBag.TipoEspecies)
+            {
+                if(@te.IdTipoEspecie==Model.IdTipoEspecie){
+                    <option value=@te.IdTipoEspecie selected>@te.Nombre</option>
+                }else{
+                    <option value=@te.IdTipoEspecie>@te.Nombre</option>
+                }
+                
+            }
+        </select>
+    </div>
+    <input type="submit" value="Modificar" />
+
+</form>

@@ -1,0 +1,14 @@
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\bin\Debug\net6.0\NetEFPruebaInicial.Data.deps.json
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\bin\Debug\net6.0\NetEFPruebaInicial.Data.runtimeconfig.json
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\bin\Debug\net6.0\NetEFPruebaInicial.Data.dll
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\bin\Debug\net6.0\NetEFPruebaInicial.Data.pdb
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\obj\Debug\net6.0\NetEFPruebaInicial.Data.csproj.AssemblyReference.cache
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\obj\Debug\net6.0\NetEFPruebaInicial.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\obj\Debug\net6.0\NetEFPruebaInicial.Data.AssemblyInfoInputs.cache
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\obj\Debug\net6.0\NetEFPruebaInicial.Data.AssemblyInfo.cs
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\obj\Debug\net6.0\NetEFPruebaInicial.Data.csproj.CoreCompileInputs.cache
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\obj\Debug\net6.0\NetEFPruebaInicial.Data.dll
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\obj\Debug\net6.0\refint\NetEFPruebaInicial.Data.dll
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\obj\Debug\net6.0\NetEFPruebaInicial.Data.pdb
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\obj\Debug\net6.0\NetEFPruebaInicial.Data.genruntimeconfig.cache
+C:\Users\cinti\Desktop\PW3 Projects\NetEFPruebaInicial.Data\obj\Debug\net6.0\ref\NetEFPruebaInicial.Data.dll

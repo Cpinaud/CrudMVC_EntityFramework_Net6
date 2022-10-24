@@ -1,0 +1,41 @@
+﻿@using NetEFPruebaInicial.Data.Entidades;
+@model List<Especie>
+
+<form action="/Especie/Listar" method="post">
+    Filtrar :<select name="IdTipoEspecie">
+        @foreach (Tipoespecie te in ViewBag.TipoEspecies)
+        {
+            <option value=@te.IdTipoEspecie>@te.Nombre</option>
+        }
+        <option value=0 selected>Todas</option>
+    </select>
+
+    <input type="submit" value="Aplicar Filtro" />
+</form>
+
+<table>
+   <tr>
+       <th>Id</th>
+       <th>Nombre</th>
+       <th>Tipo Especie</th>
+       <th>Peso Promedio</th>
+       <th>Edad Promedio</th>
+       <th>Eliminar</th>
+   </tr>
+   @foreach (var item in Model)
+   {
+        <tr>
+            <td>@item.IdEspecie</td>
+            <td><a href="/Especie/Edit/@item.IdEspecie">@item.Nombre</a></td>
+            @foreach (var te in ViewBag.TipoEspecies)
+            {
+                if(@te.IdTipoEspecie==@item.IdTipoEspecie){
+                    <td>@te.Nombre</td>
+                }
+            }
+            <td>@item.PesoPromedio</td>
+            <td>@item.EdadPromedio</td>
+            <td><a href="/Especie/Eliminar/@item.IdEspecie">Eliminar</a></td>
+        </tr>
+    }
+</table>
